@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pdc50-audriel-bustarde'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EEEB264A6FD046F2A63613434C4DC409 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F2E0D186335A476E8CCD91D3C8E67C33 }}
           package: .
